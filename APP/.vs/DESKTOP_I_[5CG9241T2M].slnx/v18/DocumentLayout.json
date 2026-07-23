@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Grocer Seeker\\APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6974F68-2B3C-5B4E-53AD-83F0192CFFD8}|DESKTOP_I_[5CG9241T2M]\\DESKTOP_I_[5CG9241T2M].csproj|c:\\grocer seeker\\app\\desktop_i_[5cg9241t2m]\\formcreateakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6974F68-2B3C-5B4E-53AD-83F0192CFFD8}|DESKTOP_I_[5CG9241T2M]\\DESKTOP_I_[5CG9241T2M].csproj|solutionrelative:desktop_i_[5cg9241t2m]\\formcreateakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6974F68-2B3C-5B4E-53AD-83F0192CFFD8}|DESKTOP_I_[5CG9241T2M]\\DESKTOP_I_[5CG9241T2M].csproj|c:\\grocer seeker\\app\\desktop_i_[5cg9241t2m]\\formcreateakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6974F68-2B3C-5B4E-53AD-83F0192CFFD8}|DESKTOP_I_[5CG9241T2M]\\DESKTOP_I_[5CG9241T2M].csproj|solutionrelative:desktop_i_[5cg9241t2m]\\formcreateakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCreateAkun.cs [Design]",
+              "DocumentMoniker": "C:\\Grocer Seeker\\APP\\DESKTOP_I_[5CG9241T2M]\\FormCreateAkun.cs",
+              "RelativeDocumentMoniker": "DESKTOP_I_[5CG9241T2M]\\FormCreateAkun.cs",
+              "ToolTip": "C:\\Grocer Seeker\\APP\\DESKTOP_I_[5CG9241T2M]\\FormCreateAkun.cs [Design]",
+              "RelativeToolTip": "DESKTOP_I_[5CG9241T2M]\\FormCreateAkun.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T01:21:12.69Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormCreateAkun.cs",
+              "DocumentMoniker": "C:\\Grocer Seeker\\APP\\DESKTOP_I_[5CG9241T2M]\\FormCreateAkun.cs",
+              "RelativeDocumentMoniker": "DESKTOP_I_[5CG9241T2M]\\FormCreateAkun.cs",
+              "ToolTip": "C:\\Grocer Seeker\\APP\\DESKTOP_I_[5CG9241T2M]\\FormCreateAkun.cs",
+              "RelativeToolTip": "DESKTOP_I_[5CG9241T2M]\\FormCreateAkun.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T01:21:04.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
